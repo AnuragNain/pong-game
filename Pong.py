@@ -1,6 +1,5 @@
-#simple pong game in python 3
-#by Anurag Nain 
-#date = 11-03-2023
+#simple pong game in python
+#by Anurag Nain
 
 import turtle
 
